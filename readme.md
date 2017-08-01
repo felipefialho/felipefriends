@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/3603793/28849450-6e4e733c-76ed-11e7-9386-c9100f4c6a3b.png" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/3603793/28849593-1d731f5c-76ee-11e7-8e7a-c39e80af1c2f.png" width="300"></p>
 
 # Felipe's Friends
 
