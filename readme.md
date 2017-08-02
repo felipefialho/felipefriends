@@ -2,13 +2,20 @@
 
 # Felipe's Friends
 
-Instruções iniciais e desafios do @training-center
+Instruções iniciais e desafios do grupo de mentoria do [Felipe Fialho](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/felipe_fialho.md)
 
-## Participantes 
+## Sobre
+
+O objetivo desse repositório é listar os desafios e prover as instruções básicas para o grupo do mentoria do projeto [training-center](https://github.com/training-center).
+
+### Apresentações
 
 - [Felipe Fialho](apresentacoes/felipe-fialho.md)
 - [Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
 
+## Challenges
+
+- [Challenge 1](challenges/challenge-1.md)
 
 
 
