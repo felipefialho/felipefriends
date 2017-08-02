@@ -16,6 +16,7 @@ O objetivo desse repositório é listar os desafios e prover as instruções bá
 ## Challenges
 
 - [Challenge 1](challenges/challenge-1.md)
+- [Challenge 2](challenges/challenge-2.md)
 
 
 
