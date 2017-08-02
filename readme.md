@@ -4,6 +4,11 @@
 
 Instruções iniciais e desafios do @training-center
 
+## Participantes 
+
+[Felipe Fialho](apresentacoes/felipe-fialho.md)
+[Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
+
 
 
 
