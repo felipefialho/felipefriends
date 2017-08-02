@@ -11,6 +11,7 @@ O objetivo desse repositório é listar os desafios e prover as instruções bá
 ### Apresentações
 
 - [Felipe Fialho](apresentacoes/felipe-fialho.md)
+- [Igor Oliveira](apresentacoes/igor-oliveira.md)
 - [Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
 
 ## Challenges
