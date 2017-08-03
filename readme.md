@@ -6,7 +6,19 @@ Instruções iniciais e desafios do grupo de mentoria do [Felipe Fialho](https:/
 
 ## Sobre
 
-O objetivo desse repositório é listar os desafios e prover as instruções básicas para o grupo do mentoria do projeto [training-center](https://github.com/training-center).
+Esse repositório serve para listar os desafios e prover as instruções básicas para o grupo do mentoria do projeto [training-center](https://github.com/training-center).
+
+## Objetivos
+
+O objetivo principal, é 
+
+- Que ao final dos desafios, todos os participantes tenham um portfolio (com ou sem blog) pessoal usando das técnologias mais modernas.
+
+Como objetivos secundários, temos 
+
+- Melhorar o conhecimento para desenvolvimento de produtos
+- Melhorar a concepção de UX 
+- Melhorar técnicas de desenvolvimento frontender
 
 ### Apresentações
 
