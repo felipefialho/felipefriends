@@ -13,4 +13,4 @@ Obs: Sim! Meu nome é estranho.
 ## Links
 
 * [Facebook](https://www.facebook.com/tanguva1)
-* [Twitter](http://twitter.com/flipmedeiros)
+* [Twitter](http://twitter.com/Tangriane_K)
