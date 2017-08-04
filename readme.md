@@ -22,12 +22,14 @@ Como objetivos secundários, temos
 
 ### Apresentações
 
+- [André Mendes](apresentacoes/andre-mendes.md)
 - [Felipe Fialho](apresentacoes/felipe-fialho.md)
 - [Felipe Medeiros](apresentacoes/felipe-medeiros.md)
 - [Igor Oliveira](apresentacoes/igor-oliveira.md)
 - [Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
 - [Maurício Mutte](apresentacoes/mauricio-mutte.md)
 - [Marcelo Gomes](apresentacoes/marcelo_gomes.md)
+- [Tangriane Kolisnichenco](apresentacoes/tangriane-kolisnichenco.md)
 
 ## Challenges
 
