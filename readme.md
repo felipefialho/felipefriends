@@ -27,6 +27,7 @@ Como objetivos secundários, temos
 - [Igor Oliveira](apresentacoes/igor-oliveira.md)
 - [Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
 - [Maurício Mutte](apresentacoes/mauricio-mutte.md)
+- [Marcelo Gomes](apresentacoes/marcelo_gomes.md)
 
 ## Challenges
 
