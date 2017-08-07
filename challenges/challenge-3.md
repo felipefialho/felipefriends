@@ -27,8 +27,9 @@ Familiarização com task-runners, pré-processadores e escolhas iniciais em um 
 - Geração / minificação de CSS
 - Transpilação / minificação de JavaScript
 - Otimização de imagens
-- Otimização / criação de sprites em SVG
 - BrowserSync ou LiveReload
+
+- Otimização / criação de sprites em SVG (Opcional)
 
 Podem utilizar o [meu site para estudos](https://github.com/LFeh/lfeh.github.io), mas recomendo criar o próprio para entender as técnologias usadas
 
