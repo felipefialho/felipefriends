@@ -32,11 +32,11 @@ Familiarização com task-runners, pré-processadores e escolhas iniciais em um 
 - Otimização / criação de sprites em SVG (Opcional)
 
 ### Dica
-Nesta etapa de escolha do seu Pré-processador CSS, vamos também aprender a organizar nosso CSS. Pra isso existem várias metodologias que auxiliam nossa vida!
+Na etapa de escolha do seu Pré-processador CSS, vamos também aprender a organizar nosso CSS. Pra isso existem várias metodologias que auxiliam nossa vida!
 Pra ajudar na escolha, leiam estes 2 artigos aqui
 
 - [Porque usar classes para estilizar elementos](https://www.felipefialho.com/blog/2016/porque-usar-classes-para-estilizar-elementos)
-- [otimizando e organizando as media queries](https://www.felipefialho.com/blog/2015/otimizando-e-organizando-as-media-queries)
+- [Otimizando e organizando as media queries](https://www.felipefialho.com/blog/2015/otimizando-e-organizando-as-media-queries)
 
 Podem utilizar o [meu site para estudos](https://github.com/LFeh/lfeh.github.io), mas recomendo criar o próprio para entender as técnologias usadas
 
