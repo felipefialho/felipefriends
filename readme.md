@@ -37,6 +37,9 @@ Como objetivos secundários, temos
 - [Challenge 2](challenges/challenge-2.md)
 - [Challenge 3](challenges/challenge-3.md)
 
+## Utilidades
+
+- [Dicas para fazer um Pull Request](utils/pull-request.md)
 
 
 
