@@ -41,6 +41,7 @@ Como objetivos secundários, temos
 ## Utilidades
 
 - [Dicas para fazer um Pull Request](utils/pull-request.md)
+- Envie seu pull request no projeto [Code Review](https://github.com/training-center/code-review) do Training Center e receba outros feedbacks
 
 
 
