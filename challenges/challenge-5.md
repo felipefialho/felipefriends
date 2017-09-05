@@ -4,7 +4,8 @@
 ## Objetivo
 
 Iniciar a construção do layout do portfolio.
-Nesse exercicio, vamos desenvolver nosso lado designer e noções de UX.
+
+Nesse exercicio, você vai desenvolver seu lado designer e suas noções de UX.
 
 O objetivo é que ao fim dele, você tenha um layout revisado.
 
