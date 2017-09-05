@@ -5,6 +5,8 @@
 
 Iniciar a construção do layout e portfolio.
 
+Nesse exercicio, vamos desenvolver nosso lado designer e noções de UX.
+
 ## Instruções
 
 1. Pode criar o design direto no código ou criar um wireframe/layout antes (não esqueça do mobile)
