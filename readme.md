@@ -27,6 +27,7 @@ Como objetivos secundários, temos
 - [Felipe Medeiros](apresentacoes/felipe-medeiros.md)
 - [Igor Oliveira](apresentacoes/igor-oliveira.md)
 - [Jefferson de Souza](apresentacoes/jefferson-de-souza.md)
+- [Leandro Fialho](apresentacaoes/leandro-fialho.md)
 - [Maurício Mutte](apresentacoes/mauricio-mutte.md)
 - [Marcelo Gomes](apresentacoes/marcelo_gomes.md)
 - [Tangriane Kolisnichenco](apresentacoes/tangriane-kolisnichenco.md)
