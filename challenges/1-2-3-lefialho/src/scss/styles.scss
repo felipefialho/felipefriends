@@ -1,0 +1,14 @@
+// styles.scss
+
+@import "variables-mixins";
+
+
+.testing {
+  width: percentage(300px/960px);
+}
+
+h1{
+	color: $color1;
+	font-family: $font-1;
+}
+
