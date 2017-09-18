@@ -39,6 +39,7 @@ Como objetivos secundários, temos
 - [Challenge 3](challenges/challenge-3.md)
 - [Challenge 4](challenges/challenge-4.md)
 - [Challenge 5](challenges/challenge-5.md)
+- [Challenge 6](challenges/challenge-6.md)
 
 ## Utilidades
 
