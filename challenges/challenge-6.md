@@ -8,8 +8,7 @@ Caso já tenha escrito outros artigos, agora escreva um com o tema proposto abai
 
 ## Instruções
 
-1. O artigo deve explicar **o que você usou, como usou** e servir como uma espécie de tutorial sobre as 
-técnologias utilizadas até aqui
+1. O artigo deve explicar **o que você usou, como usou, nos últimos desafios, para desenvolver seu portfolio** e servir como uma espécie de tutorial para as técnologias utilizadas até aqui
 2. Mesmo esquema, ao terminar abre um PR para validarmos
 3. Todos devem compartilhar os artigos de todos em alguma rede social
 
